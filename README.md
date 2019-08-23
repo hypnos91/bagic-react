@@ -1,3 +1,3 @@
-# Bagic React
+# Basic React
 
 Live coding
